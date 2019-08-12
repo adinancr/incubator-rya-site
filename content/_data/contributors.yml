@@ -26,7 +26,7 @@
 - name: Sean Busbey 
   apacheId: busbey
   githubId: busbey
-  role: Former Mentor
+  role: Mentor
   org: 
 
 - name: Kevin Chilton
@@ -39,12 +39,6 @@
   githubId: adinancr
   role: Committer
   org: US Naval Academy
-
-- name: Jeff Dash
-  apacheId:
-  githubId: jdash
-  org:
-  role: Contributor
 
 - name: Josh Elser
   apacheId: elserj
@@ -65,23 +59,17 @@
   org:
   role: Contributor
 
-- name: Jesse Hatfield
-  apacheId:
-  githubId: jessehatfield
-  org:
-  role: Contributor
-
 - name: David Lotts
-  apacheId: dlotts
+  apacheId:
   githubId: dlotts
   org: Parsons
-  role: Commiter
+  role: Contributor
 
 - name: Caleb Meier
-  apacheId: caleb
+  apacheId:
   githubId: meiercaleb
-  org: Parsons
-  role: Commiter
+  org:
+  role: Contributor
 
 - name: Aaron Mihalik
   apacheId: mihalik
@@ -101,18 +89,6 @@
   org:
   role: Committer
 
-- name: Billie Rinaldi
-  apacheId: billie
-  githubId: 
-  org:
-  role: Mentor
-
-- name: Andrew Smith
-  apacheId:
-  githubId: isper3at
-  org:
-  role: Contributor
-
 - name: Puja Valiyil
   apacheId: pujav65
   githubId: pujav65
@@ -131,21 +107,9 @@
   org:
   role: Committer
 
-- name: Eric White
-  apacheId:
-  githubId: ejwhite922
-  org:
-  role: Contributor
-
 - name: Amila Wijayarathna
   apacheId: 
 #  githubId: 
-  org:
-  role: Contributor
-
-- name: Jonathan Wonders
-  apacheId:
-  githubId: jwonders
   org:
   role: Contributor
 
